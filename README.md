@@ -33,10 +33,10 @@ I'm a developer who is looking for new knowledge and wants to learn, a lover of 
   <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/years/Salmik?style=flat-square&color=blue&logo=github">
   </a>
-  <a href="https://github.com/milanpanchal?tab=repositories">
+  <a href="https://github.com/Salmik?tab=repositories">
     <img src="https://badges.pufler.dev/repos/Salmik?style=flat-square&color=blue&logo=github">
   </a>
-  <a href="https://gist.github.com/milanpanchal">
+  <a href="https://gist.github.com/Salmik">
     <img src="https://badges.pufler.dev/gists/Salmik?style=flat-square&color=blue&logo=github">
   </a>
     <a href="https://badges.pufler.dev">
