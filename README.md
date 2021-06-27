@@ -18,8 +18,6 @@ I'm a developer who is looking for new knowledge and wants to learn, a lover of 
 |:---:|
 
 
-## 📫 How to reach me:
-
 ## My GitHub Stats
 <a href="https://github.com/Salmik">
     <img src="https://github-readme-stats.vercel.app/api?username=Salmik&show_icons=true&theme=gotham&count_private=true" alt="Milan Panchal's GitHub Stats" width="45%" align="right"/>
