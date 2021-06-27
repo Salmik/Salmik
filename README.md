@@ -1,4 +1,4 @@
-### Hi, I'm [Zhanibek Lukpanov] 👋
+### Hi, I'm Zhanibek Lukpanov 👋
 
 I'm a developer who is looking for new knowledge and wants to learn, a lover of good readable code. I want to develop in a company with developers and learn from them.
 
