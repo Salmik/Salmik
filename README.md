@@ -1,23 +1,7 @@
-### Hi, I'm Zhanibek Lukpanov 👋
+### Hi 👋
 
-I am a self-taught programmer who is very interested in iOS development and try to write clean code. I want to develop in a company with developers and learn from them. In my free time I read blogs, books about iOS development.
+I am a self-taught programmer who is very interested in iOS development. In my free time I read blogs, books about iOS development.
 
-
-## Expertise:
-
-* iOS Application Development [Swift]
-* Project Management
-* Postman and Paw for API Testing
-* Strong knowledge of OOP
-* Strong knowledge of Swift
-* Experience in the Xcode environment
-* Screen layout with or without Storyboard
-* Experience with Firebase(Cloud Messaging, Remote Config, Auth)
-* Experience with CoreData databases
-* Experience with GCD
-* Experience with URLSession, Alamofire
-* Proficiency with: Github
-* Experience with popular architectures: MVC, MVVM, Clean Swift
 
 ## :rocket: Programming Languages:
 
