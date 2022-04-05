@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I am a self-taught programmer who is very interested in iOS development. In my free time I read blogs, books about iOS development.
+I am a self-taught programmer who is interested in iOS development.
 
 
 ## :rocket: Programming Languages:
