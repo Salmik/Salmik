@@ -1,8 +1,3 @@
-### Hi 👋
-
-I am a self-taught programmer who is interested in iOS development.
-
-
 ## :rocket: Programming Languages:
 
 |<img align="center" alt="Swift Icon" src="https://img.icons8.com/bubbles/50/000000/swift.png"/>|
