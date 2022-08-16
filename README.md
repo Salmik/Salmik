@@ -6,7 +6,7 @@
 
 ## My GitHub Stats
 <a href="https://github.com/Salmik">
-    <img src="https://github-readme-stats.vercel.app/api?username=Salmik&show_icons=true&theme=gotham&count_private=true" alt="Milan Panchal's GitHub Stats" width="45%" align="right"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Salmik&&show_icons=true&theme=radical&count_private=true" alt="Salmik GitHub Stats" width="45%" align="right"/>
    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Salmik&theme=dark" width="48%" >
 </a>
 
