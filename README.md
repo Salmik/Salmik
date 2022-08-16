@@ -12,19 +12,3 @@
 
 ## Top Languages  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Salmik&layout=compact&theme=gotham)
-  
-   <a href="https://badges.pufler.dev">
-   <img src="https://badges.pufler.dev/visits/Salmik/Salmik?style=flat-square&color=blue&logo=github">
-  </a>
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/years/Salmik?style=flat-square&color=blue&logo=github">
-  </a>
-  <a href="https://github.com/Salmik?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/Salmik?style=flat-square&color=blue&logo=github">
-  </a>
-  <a href="https://gist.github.com/Salmik">
-    <img src="https://badges.pufler.dev/gists/Salmik?style=flat-square&color=blue&logo=github">
-  </a>
-    <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/commits/monthly/Salmik?style=flat-square&color=blue&logo=github">
-  </a> 
